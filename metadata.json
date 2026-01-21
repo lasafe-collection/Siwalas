@@ -1,0 +1,7 @@
+{
+  "name": "Admin Wali Kelas Pro",
+  "description": "A comprehensive administration system for homeroom teachers featuring student management, attendance, and a smart document generator optimized for Google Docs compatibility.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
